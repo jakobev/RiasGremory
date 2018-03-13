@@ -1,1 +1,1 @@
-# jakobev.github.io
+# git rm -r --cached image
